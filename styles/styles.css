@@ -1,0 +1,7 @@
+.main {
+    display: flex;
+    width: 1200px;
+    background-color: aquamarine;
+    box-shadow: 2px 2px 30px rgba(11, 146, 101, 0.705);
+    margin: 0 auto;
+}
